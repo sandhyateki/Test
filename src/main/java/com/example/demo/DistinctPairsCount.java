@@ -25,3 +25,4 @@ import java.util.Map;
 		System.out.println(getPairsCount(data, 10));
 	}
 }
+//https://www.geeksforgeeks.org/count-pairs-difference-equal-k/
